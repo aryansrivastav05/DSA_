@@ -12,8 +12,10 @@ public class arrayCreation{
     int[] arr3 = new int[5];
     java.util.Arrays.fill(arr3, 7);
 
+
     System.out.println("Array 1: " + java.util.Arrays.toString(arr1));
     System.out.println("Array 2: " + java.util.Arrays.toString(arr2));
     System.out.println("Array 3: " + java.util.Arrays.toString(arr3));
+    
   }
 }
